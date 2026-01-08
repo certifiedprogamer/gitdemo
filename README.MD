@@ -11,3 +11,4 @@ this is a repo that was made for practice with the following things:
 - handling merge conflicts in vs code
 - forking a repository and submitting pull requests
 - handling and merging pull requests
+- reverting code
