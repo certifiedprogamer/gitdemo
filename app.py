@@ -1,3 +1,6 @@
 print("hi - Local")
+print("Sometimes, I dream about cheese.")
 print("hi - remote")
+print("actually, no i dont")
 print("added during merge")
+print("local end")
